@@ -1,20 +1,4 @@
-/***
- * Excerpted from "Seven Web Frameworks in Seven Weeks",
- * published by The Pragmatic Bookshelf.
- * Copyrights apply to this code. It may not be used to create training material, 
- * courses, books, articles, and the like. Contact us if you are in doubt.
- * We make no guarantees that this code is fit for any purpose. 
- * Visit http://www.pragmaticprogrammer.com/titles/7web for more book information.
-***/
-/*!
- * CanJS - 1.1.8
- * http://canjs.us/
- * Copyright (c) 2013 Bitovi
- * Tue, 24 Sep 2013 21:59:54 GMT
- * Licensed MIT
- * Includes: can/view/mustache
- * Download from: http://canjs.com
- */
+
 (function(can) {
 
     // # mustache.js

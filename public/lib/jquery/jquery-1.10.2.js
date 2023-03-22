@@ -1,24 +1,4 @@
-/***
- * Excerpted from "Seven Web Frameworks in Seven Weeks",
- * published by The Pragmatic Bookshelf.
- * Copyrights apply to this code. It may not be used to create training material, 
- * courses, books, articles, and the like. Contact us if you are in doubt.
- * We make no guarantees that this code is fit for any purpose. 
- * Visit http://www.pragmaticprogrammer.com/titles/7web for more book information.
-***/
-/*!
- * jQuery JavaScript Library v1.10.2
- * http://jquery.com/
- *
- * Includes Sizzle.js
- * http://sizzlejs.com/
- *
- * Copyright 2005, 2013 jQuery Foundation, Inc. and other contributors
- * Released under the MIT license
- * http://jquery.org/license
- *
- * Date: 2013-07-03T13:48Z
- */
+
 (function( window, undefined ) {
 
 // Can't do this because several apps including ASP.NET trace
